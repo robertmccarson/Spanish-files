@@ -1,0 +1,419 @@
+  <!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>Customized Google Form - Grid with Text Response</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+     
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+ </head>
+<body>
+
+<div class="container">
+</div>
+<form id="" target="_self" onsubmit="" action="https://docs.google.com/forms/d/e/1FAIpQLSdETLfBsB1xIsv6cd1OFlFZ2FlgRhgd9K5MmYcFSET6c6X7Jg/formResponse" form="POST">
+ 
+   
+ <h3 align="center">VOCABULARIO</h3>
+  <form name ="contact">
+  <div class="form-group">
+      <label for="Name"> Your Name and Spanish Noun Name (Example: Señor Mac - La corbata)</label>
+      <input type="text" name="Name" class="form-control" id="Name" >
+    </div>
+ <h4 align="center">READ BELOW BEFORE YOU BEGIN</h4>
+ <strong align="center">In the boxes below, write every single word in Spanish you can recall.  Think about all your classmates noun names, videos we have watched, foods you know from Mexican restaurant menus, U.S. states with names of Spanish origin, numbers, days of the week, months, seasons etc.  Also remember, Spanish words are spelled exactly as they sound and the vowel sounds spelled phonetically in Spanish are ah (a), eh (e), ee (i), oh (o) and ooh (u).</strong>
+    <p>
+ <table class="table table-bordered" >
+  <tr style="text-align:right">
+   
+  <tr>
+   <td>
+  <input type="text" name="entry.525604459" class="form-control" id="Word1">
+  </td>
+  <td>
+  <input type="text" name="entry.1104051823" class="form-control" id="Word2" >
+  <td>
+  <input type="text" name="entry.187285200" class="form-control" id="Word3">
+  </td>
+  <td>
+  <input type="text" name="entry.1968561163" class="form-control" id="Word4" >
+    <td>
+  <input type="text" name="entry.1774069698" class="form-control" id="Word5" >
+  </td>
+   <td align="center">5</td> 
+  </tr>
+  
+  <tr>
+   <td>
+  <input type="text" name="entry.910772538" class="form-control" id="Word1" >
+  </td>
+  <td>
+  <input type="text" name="entry.558145302" class="form-control" id="Word2" >
+  <td>
+  <input type="text" name="entry.407419603" class="form-control" id="Word3" >
+  </td>
+  <td>
+  <input type="text" name="entry.701710117" class="form-control" id="Word4" >
+    <td>
+  <input type="text" name="entry.1847345507" class="form-control" id="Word5" >
+  </td>
+   <td align="center">10</td> 
+  </tr>
+  
+  <tr>
+   <td>
+  <input type="text" name="entry.477337662" class="form-control" id="Word1" >
+  </td>
+  <td>
+  <input type="text" name="entry.1183287184" class="form-control" id="Word2" >
+  <td>
+  <input type="text" name="entry.29402830" class="form-control" id="Word3" >
+  </td>
+  <td>
+  <input type="text" name="entry.1578905144" class="form-control" id="Word4" >
+    <td>
+  <input type="text" name="entry.1301306397" class="form-control" id="Word5" >
+  </td>
+   <td align="center">15</td> 
+  </tr>
+  
+  <tr>
+   <td>
+  <input type="text" name="entry.827017051" class="form-control" id="Word1" >
+  </td>
+  <td>
+  <input type="text" name="entry.2086555538" class="form-control" id="Word2" >
+  <td>
+  <input type="text" name="entry.469502323" class="form-control" id="Word3" >
+  </td>
+  <td>
+  <input type="text" name="entry.1280909452" class="form-control" id="Word4" >
+    <td>
+  <input type="text" name="entry.1651221344" class="form-control" id="Word5" >
+  </td>
+   <td align="center">20</td> 
+  </tr>
+  
+  <tr>
+   <td>
+  <input type="text" name="entry.999934819" class="form-control" id="Word1" >
+  </td>
+  <td>
+  <input type="text" name="entry.469502323" class="form-control" id="Word2" >
+  <td>
+  <input type="text" name="entry.1280909452" class="form-control" id="Word3" >
+  </td>
+  <td>
+  <input type="text" name="entry.1651221344" class="form-control" id="Word4" >
+    <td>
+  <input type="text" name="entry.999934819" class="form-control" id="Word5" >
+  </td>
+   <td align="center">25</td> 
+  </tr>
+  
+  <tr>
+   <td>
+  <input type="text" name="entry.914326903" class="form-control" id="Word1" >
+  </td>
+  <td>
+  <input type="text" name="entry.1113080435" class="form-control" id="Word2" >
+  <td>
+  <input type="text" name="entry.646430807" class="form-control" id="Word3" >
+  </td>
+  <td>
+  <input type="text" name="entry.465421757" class="form-control" id="Word4" >
+    <td>
+  <input type="text" name="entry.520773667" class="form-control" id="Word5" >
+  </td>
+   <td align="center">30</td> 
+  </tr>
+  
+  <tr>
+   <td>
+  <input type="text" name="entry.1011168191" class="form-control" id="Word1" >
+  </td>
+  <td>
+  <input type="text" name="entry.365384159" class="form-control" id="Word2" >
+  <td>
+  <input type="text" name="entry.596481967" class="form-control" id="Word3" >
+  </td>
+  <td>
+  <input type="text" name="entry.1494526775" class="form-control" id="Word4" >
+    <td>
+  <input type="text" name="entry.1938575044" class="form-control" id="Word5" >
+  </td>
+   <td align="center">35</td> 
+  </tr>
+  
+  <tr>
+   <td>
+  <input type="text" name="entry.4807929" class="form-control" id="Word1" >
+  </td>
+  <td>
+  <input type="text" name="entry.800350233" class="form-control" id="Word2" >
+  <td>
+  <input type="text" name="entry.1960392013" class="form-control" id="Word3" >
+  </td>
+  <td>
+  <input type="text" name="entry.1269817072" class="form-control" id="Word4" >
+    <td>
+  <input type="text" name="entry.1948331710" class="form-control" id="Word5" >
+  </td>
+   <td align="center">40</td> 
+  </tr>
+  <tr>
+   <td>
+  <input type="text" name="Word1" class="form-control" id="Word1" >
+  </td>
+  <td>
+  <input type="text" name="Word2" class="form-control" id="Word2" >
+  <td>
+  <input type="text" name="Word3" class="form-control" id="Word3" >
+  </td>
+  <td>
+  <input type="text" name="Word4" class="form-control" id="Word4" >
+    <td>
+  <input type="text" name="Word5" class="form-control" id="Word5" >
+  </td>
+   <td align="center">45</td> 
+  </tr>
+  <tr>
+   <td>
+  <input type="text" name="Word1" class="form-control" id="Word1" >
+  </td>
+  <td>
+  <input type="text" name="Word2" class="form-control" id="Word2" >
+  <td>
+  <input type="text" name="Word3" class="form-control" id="Word3" >
+  </td>
+  <td>
+  <input type="text" name="Word4" class="form-control" id="Word4" >
+    <td>
+  <input type="text" name="Word5" class="form-control" id="Word5" >
+  </td>
+   <td align="center">50</td> 
+  </tr>
+  <tr>
+   <td>
+  <input type="text" name="Word1" class="form-control" id="Word1" >
+  </td>
+  <td>
+  <input type="text" name="Word2" class="form-control" id="Word2" >
+  <td>
+  <input type="text" name="Word3" class="form-control" id="Word3" >
+  </td>
+  <td>
+  <input type="text" name="Word4" class="form-control" id="Word4" >
+    <td>
+  <input type="text" name="Word5" class="form-control" id="Word5" >
+  </td>
+   <td align="center">55</td> 
+  </tr>
+  
+  <tr>
+   <td>
+  <input type="text" name="Word1" class="form-control" id="Word1" >
+  </td>
+  <td>
+  <input type="text" name="Word2" class="form-control" id="Word2" >
+  <td>
+  <input type="text" name="Word3" class="form-control" id="Word3" >
+  </td>
+  <td>
+  <input type="text" name="Word4" class="form-control" id="Word4" >
+    <td>
+  <input type="text" name="Word5" class="form-control" id="Word5" >
+  </td>
+   <td align="center">60</td> 
+  </tr>
+  
+  <tr>
+   <td>
+  <input type="text" name="Word1" class="form-control" id="Word1" >
+  </td>
+  <td>
+  <input type="text" name="Word2" class="form-control" id="Word2" >
+  <td>
+  <input type="text" name="Word3" class="form-control" id="Word3" >
+  </td>
+  <td>
+  <input type="text" name="Word4" class="form-control" id="Word4" >
+    <td>
+  <input type="text" name="Word5" class="form-control" id="Word5" >
+  </td>
+   <td align="center">65</td> 
+  </tr>
+  <tr>
+   <td>
+  <input type="text" name="Word1" class="form-control" id="Word1" >
+  </td>
+  <td>
+  <input type="text" name="Word2" class="form-control" id="Word2" >
+  <td>
+  <input type="text" name="Word3" class="form-control" id="Word3" >
+  </td>
+  <td>
+  <input type="text" name="Word4" class="form-control" id="Word4" >
+    <td>
+  <input type="text" name="Word5" class="form-control" id="Word5" >
+  </td>
+   <td align="center">70</td> 
+  </tr>
+  <tr>
+   <td>
+  <input type="text" name="Word1" class="form-control" id="Word1" >
+  </td>
+  <td>
+  <input type="text" name="Word2" class="form-control" id="Word2" >
+  <td>
+  <input type="text" name="Word3" class="form-control" id="Word3" >
+  </td>
+  <td>
+  <input type="text" name="Word4" class="form-control" id="Word4" >
+    <td>
+  <input type="text" name="Word5" class="form-control" id="Word5" >
+  </td>
+   <td align="center">75</td> 
+  </tr>
+  
+  <tr>
+   <td>
+  <input type="text" name="Word1" class="form-control" id="Word1" >
+  </td>
+  <td>
+  <input type="text" name="Word2" class="form-control" id="Word2" >
+  <td>
+  <input type="text" name="Word3" class="form-control" id="Word3" >
+  </td>
+  <td>
+  <input type="text" name="Word4" class="form-control" id="Word4" >
+    <td>
+  <input type="text" name="Word5" class="form-control" id="Word5" >
+  </td>
+   <td align="center">80</td> 
+  </tr>
+  <tr>
+   <td>
+  <input type="text" name="Word1" class="form-control" id="Word1" >
+  </td>
+  <td>
+  <input type="text" name="Word2" class="form-control" id="Word2" >
+  <td>
+  <input type="text" name="Word3" class="form-control" id="Word3" >
+  </td>
+  <td>
+  <input type="text" name="Word4" class="form-control" id="Word4" >
+    <td>
+  <input type="text" name="Word5" class="form-control" id="Word5" >
+  </td>
+   <td align="center">85</td> 
+  </tr>
+  <tr>
+   <td>
+  <input type="text" name="Word1" class="form-control" id="Word1" >
+  </td>
+  <td>
+  <input type="text" name="Word2" class="form-control" id="Word2" >
+  <td>
+  <input type="text" name="Word3" class="form-control" id="Word3" >
+  </td>
+  <td>
+  <input type="text" name="Word4" class="form-control" id="Word4" >
+    <td>
+  <input type="text" name="Word5" class="form-control" id="Word5" >
+  </td>
+   <td align="center">90</td> 
+  </tr>
+  
+  <tr>
+   <td>
+  <input type="text" name="Word1" class="form-control" id="Word1" >
+  </td>
+  <td>
+  <input type="text" name="Word2" class="form-control" id="Word2" >
+  <td>
+  <input type="text" name="Word3" class="form-control" id="Word3" >
+  </td>
+  <td>
+  <input type="text" name="Word4" class="form-control" id="Word4" >
+    <td>
+  <input type="text" name="Word5" class="form-control" id="Word5" >
+  </td>
+   <td align="center">95</td> 
+  </tr>
+  <tr>
+   <td>
+  <input type="text" name="Word1" class="form-control" id="Word1" >
+  </td>
+  <td>
+  <input type="text" name="Word2" class="form-control" id="Word2" >
+  <td>
+  <input type="text" name="Word3" class="form-control" id="Word3" >
+  </td>
+  <td>
+  <input type="text" name="Word4" class="form-control" id="Word4" >
+    <td>
+  <input type="text" name="Word5" class="form-control" id="Word5" >
+  </td>
+   <td align="center">100</td> 
+  </tr>
+    </table>
+    <p>
+     <input type="submit">
+     <p>
+  </form>
+   <p id="status"></p>
+   <p id="dummy"></p>
+ 
+ 
+ <script>  
+  const scriptURL = 'https://script.google.com/macros/s/AKfycbwldu4COqJQfjjDLS5deyt9yWsPa8BfDQaCYa5X1IQ5nu6Ztc0Y/exec'  
+  const form = document.forms['contact']  
+  form.addEventListener('submit', e => {  
+   e.preventDefault()  
+   fetch(scriptURL, { method: 'POST', body: new FormData(form)})  
+  //  .then(response => console.log('Successmmm!', response))  
+  //  .catch(error => console.error('Error!', error.message))  
+      .then(response => success())  
+      .catch(error => console.error('Error!', error.message))  
+  })  
+  function success() {
+  document.getElementById("status").innerHTML = "Form Submitted to Google sheet." + "<a href='https://docs.google.com/spreadsheets/d/1EEzGsAV3c8y16NCToSeVknnL9Hr4JUtXtqdsyPXJAJE/edit#gid=2044095440'target=_blank'>Click here</a> to access the Google sheet";
+  
+   clear();
+ 
+  }
+  
+  function clear () {
+  document.contact.Name.value='';
+  document.contact.Book1.value='';
+  document.contact.Author1.value='';
+  document.contact.Book2.value='';
+  document.contact.Author2.value='';
+  document.contact.Book3.value='';
+  document.contact.Author3.value='';
+  document.contact.Book4.value='';
+  document.contact.Author4.value='';
+  document.contact.Book5.value='';
+  document.contact.Author5.value='';
+   
+  }
+  
+  $(document).ready(function(){
+    $("input").focus(function(){
+        $(this).css("background-color", "#cccccc");
+    });
+    $("input").blur(function(){
+        $(this).css("background-color", "#ffffff");
+    });
+});
+ </script> 
+
+</body>
+</html>
+
+ 
+
+		
